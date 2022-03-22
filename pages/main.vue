@@ -1,17 +1,11 @@
 <template>
     <div>
-        <h1>main</h1>
-        <Logo />
+        <p>메인 페이지입니다.</p>
     </div>
 </template>
 <script>
-import Logo from '@/components/NuxtLogo.vue'
-
 export default {
-    name: 'MainPage',
-    components: {
-        Logo,
-    }
+    
 }
 </script>
 <style>
