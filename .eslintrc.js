@@ -13,8 +13,8 @@ module.exports = {
   // add your custom rules here
   rules: {
     'vue/multi-word-component-names': 'off',
+    'no-console': 'off',
     // camelcase: 'off',
-    // 'no-undef': 'off',
-    // 'no-console': 'off',
+    // 'no-undef': 'off',   
   },
 }
